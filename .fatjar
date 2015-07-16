@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jun 25 19:46:21 HKT 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=GithubDownload_fat.jar
+manifest.mergeall=false
+manifest.mainclass=main.java.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
